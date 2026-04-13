@@ -1,3 +1,7 @@
+Atividade Pratica 4 Fund Data Ops - Workshop Streaming
+
+
+
 # Workshop Streaming: OpenFlights Airports Pipeline
 
 Este projeto implementa um pipeline de dados ponta a ponta, desde a ingestão via Kafka até a criação de camadas Bronze, Silver e Gold utilizando Parquet e Apache Iceberg.
